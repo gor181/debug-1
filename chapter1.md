@@ -29,46 +29,6 @@ key: d50a58374f
 
 
 ---
-## Insert exercise title here
-
-```yaml
-type: NormalExercise
-
-xp: 
-
-key: 5bbdffad13
-```
-
-this is the assignment for normal exercise title
-
-`@instructions`
-those are the instructions
-
-`@hint`
-this is the hint
-
-`@pre_exercise_code`
-```{}
-from math import pi
-```
-`@sample_code`
-```{}
-# Starting point
-```
-`@solution`
-```{}
-print(pi)
-```
-`@sct`
-```{}
-# here we write sct's
-```
-
-
-
-
-
----
 ## mpc
 
 ```yaml
