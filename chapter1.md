@@ -39,3 +39,43 @@ from math import pi
 
 
 
+
+---
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+
+xp: 
+
+key: 3167bc52f0
+```
+
+normal
+
+`@instructions`
+inst
+
+`@hint`
+hint
+
+`@pre_exercise_code`
+```{}
+from math import pi
+```
+`@sample_code`
+```{}
+# sample
+```
+`@solution`
+```{}
+# solution
+```
+`@sct`
+```{}
+#sct
+```
+
+
+
+
