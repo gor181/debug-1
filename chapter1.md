@@ -39,31 +39,3 @@ from math import pi
 
 
 
-
----
-## Insert exercise title here
-
-```yaml
-type: NormalExercise
-
-xp: 
-
-key: a558250299
-```
-
-dasdas
-
-`@instructions`
-dada
-
-`@hint`
-
-
-
-
-
-
-
-
-
-
