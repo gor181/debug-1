@@ -1,6 +1,8 @@
 ---
 title: Test
-description: Test
+description: >-
+  Test
+
 
 ---
 ## Sample exercise
@@ -14,26 +16,54 @@ key: d50a58374f
 ```
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+
+xp: 
+
+key: 5bbdffad13
+```
+
+this is the assignment for normal exercise title
+
 `@instructions`
+those are the instructions
 
 `@hint`
+this is the hint
 
 `@pre_exercise_code`
-```{python}
-
+```{}
+from math import pi
 ```
-
 `@sample_code`
-```{python}
-
+```{}
+# Starting point
 ```
-
 `@solution`
-```{python}
-
+```{}
+print(pi)
 ```
-
 `@sct`
-```{python}
-
+```{}
+# here we write sct's
 ```
+
+
+
+
