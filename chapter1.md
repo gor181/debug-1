@@ -8,20 +8,22 @@ description: >-
 ## Insert exercise title here
 
 ```yaml
-type: NormalExercise
+type: MultipleChoiceExercise
 
 xp: 
 
-key: 36cd40f019
+key: 7e16cea200
 ```
 
-da
+mpc
 
 `@instructions`
-das
+- 1
+- 2
+- 3
 
 `@hint`
-da
+
 
 
 
