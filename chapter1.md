@@ -5,30 +5,6 @@ description: >-
 
 
 ---
-## Sample exercise
-
-```yaml
-type: NormalExercise
-lang: python
-xp: 100
-skills: 2
-key: d50a58374f
-```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
 ## mpc
 
 ```yaml
